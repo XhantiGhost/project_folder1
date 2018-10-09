@@ -1,3 +1,3 @@
 # project_folder1
  
-https://github.com/XhantiGhost/project_folder1/blob/master/xhantilomzi-cv/index.html
+https://xhantighost.github.io/xhantilomzi_CV/index.html
